@@ -30,7 +30,7 @@ void main() {
 		multiply();
 		break;
 	default:
-		printf("Please enter a valid value");
+		printf("Please enter a valid value for arithmetic operators");
 	}
 
 }
