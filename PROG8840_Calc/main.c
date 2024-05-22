@@ -22,10 +22,15 @@ void main() {
 	{
 	case 1:
 		add();
+		break;
 	case 2:
 		subtract();
+		break;
 	case 3:
 		multiply();
+		break;
+	default:
+		printf("Please enter a valid value");
 	}
 
 }
