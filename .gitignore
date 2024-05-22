@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PROG8840_Calc/.vs
+/PROG8840_Calc/Debug
+/PROG8840_Calc/PROG8840_Calc/Debug
+/.vs
